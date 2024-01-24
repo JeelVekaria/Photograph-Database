@@ -1,7 +1,12 @@
-Database using MySQL holding information about photographs displayed onto 5 websites.
+# Photograph Database
+MySQL database storing details about photos featured on 5 websites:
 
-First website shows the connection to the linux server being successful.
-Second website shows table of the database sorted by Date Taken.
-Third website shows photograph taken only in Ontario.
-Fourth website allows the user to pick through the photographs based on their location and date taken.
-Fifth website chooses a random photograph to display to the user.
+🌐 Website 1: Successfully connects to the Linux server.
+
+📅 Website 2: Displays a table from the database sorted by Date Taken.
+
+🍁 Website 3: Exhibits photos taken exclusively in Ontario.
+
+🗺️ Website 4: Allows users to filter photos by location and date.
+
+🎲 Website 5: Randomly selects and showcases a photograph from the database to the user.
