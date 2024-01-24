@@ -1,5 +1,5 @@
 # Photograph Database
-MySQL database storing details about photos featured on 5 websites:
+MySQL database storing details about photos featured on 5 websites accessible to TMU students only:
 
 🌐 Website 1: Successfully connects to the Linux server.
 
